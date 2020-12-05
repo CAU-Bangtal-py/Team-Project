@@ -1,4 +1,5 @@
 from bangtal import *
+import Othello
 
 
 setGameOption(GameOption.INVENTORY_BUTTON, False)
@@ -278,11 +279,11 @@ def Scene_Stay(x1,x2,y1,y2):
                                                              # 무한히 문을 드나드는것을 방지합니다. 
         Rat.scene_STAY = False
 
-def Othello_Game():
+def Othello_Game(x,y,action):
 
     #이곳에서 오델로 게임을 호출합니다. 호출은 신 4에 있는 고양이를 누르는것으로 되며 startgame중에 다시 startgame을 호출하는것은 불가능할듯 하여 
     #endgame을 하고 다시 startgame을 해야하지 않을까 싶습니다. 
-    pass
+    Othello.startGame(Othello.Main)
 
 
 def debug():
