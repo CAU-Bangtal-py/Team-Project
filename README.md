@@ -8,11 +8,11 @@
 ### Contents 🐭 =======3 🙀 
 
 ```
-  #### 1. Theme of the Game
+  1. Theme of the Game
 
-  #### 2. Goal of the Game
+  2. Goal of the Game
 
-  #### 3. How to Play
+  3. How to Play
 ```
 
 ----
