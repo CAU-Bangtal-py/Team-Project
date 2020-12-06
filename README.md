@@ -1,8 +1,11 @@
-# ![image](https://user-images.githubusercontent.com/48724199/101284740-db0d6b80-3824-11eb-85ec-81e6d8864012.png) A Piece of Cheese 🐭 =======3 🙀 
+# ![image](https://user-images.githubusercontent.com/48724199/101284980-34c26580-3826-11eb-83bf-be256e266268.png)
+
+
+# A Piece of Cheese
 
 ----
 
-### Contents
+### Contents 🐭 =======3 🙀 
 
   #### 1. Theme of the Game
 
