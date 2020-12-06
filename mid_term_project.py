@@ -186,6 +186,9 @@ def NextScene(): # 씬체인지 기능입니다.
                     Mini_Map.locate(Rat_House_Scene, 1100, 600);
                     Map_1.locate(Rat_House_Scene,200,100)
 
+            if Rat.x > 1200 : 
+                    showMessage("이쪽방향이 아니야!!")
+
             if Rat.x <= 30:
                     scene3.enter() # scene 3 진입코드 
                     Rat.scene = 3

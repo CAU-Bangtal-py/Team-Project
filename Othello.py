@@ -6,6 +6,8 @@ setGameOption(GameOption.INVENTORY_BUTTON, False)
 setGameOption(GameOption.MESSAGE_BOX_BUTTON, False)
 
 Main = Scene('20153182', 'Images/background.png')
+Win = Scene('win', 'Images/win.png')
+Lose = Scene('lose', 'Images/lose.png')
 
 class State(Enum):
     BLANK = 0
@@ -39,6 +41,8 @@ Num4.show()
 
 
 def score():
+    global blackStone
+    global whiteStone
     blackStone = 0
     whiteStone = 0
 
@@ -91,11 +95,18 @@ def stone_onMouseAction(x, y):
             turn = Turn.BLACK
 
         if not setPossible():
-            showMessage("게임이 종료되었습니다.")
+            Result()
     
     score()
     computer()
-    
+
+
+def Result():
+    if blackStone > whiteStone:
+        Win.enter()
+    else:
+        Lose.enter()
+        
 
 
 
