@@ -1,7 +1,7 @@
 # ![image](https://user-images.githubusercontent.com/48724199/101284980-34c26580-3826-11eb-83bf-be256e266268.png)
 
 
-# A Piece of Cheese
+# ![image](https://user-images.githubusercontent.com/48724199/101285019-63d8d700-3826-11eb-96e6-297fae188240.png) A Piece of Cheese
 
 ----
 
