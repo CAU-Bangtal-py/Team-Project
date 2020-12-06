@@ -7,7 +7,7 @@
 
 ### Contents 🐭 =======3 🙀 
 
-'''
+'''python
   #### 1. Theme of the Game
 
   #### 2. Goal of the Game
