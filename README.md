@@ -15,7 +15,10 @@
   3. How to Play
 ```
 
+![image](https://user-images.githubusercontent.com/48724199/101285275-a4852000-3827-11eb-9c0f-a80f0fe107e3.png)
+
 ----
+
 ### 1. Theme of the Game
 
 > The game was inspired by a scene in the American animation Tom and Jerry stealing cheese and milk from the kitchen to avoid the cat Tom.
