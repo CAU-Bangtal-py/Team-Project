@@ -5,6 +5,11 @@
 
 ----
 
+Game Introduction Video (Korean) : [[Youtube Link]](https://youtu.be/N5T_S-qkIUk)
+
+----
+----
+
 ### Contents 🐭 =======3 🙀 
 
 ```
@@ -15,7 +20,7 @@
   3. How to Play
 ```
 
-![image](https://user-images.githubusercontent.com/48724199/101285275-a4852000-3827-11eb-9c0f-a80f0fe107e3.png)
+![image](https://user-images.githubusercontent.com/48724199/101318751-2f0b6500-38a4-11eb-9f6c-8e9fa73d5ac3.png)
 
 ----
 
@@ -39,4 +44,15 @@
 
 * The final goal is to win the Othello match with the cat in the kitchen.
 
-https://youtu.be/N5T_S-qkIUk
+
+----
+----
+
+### 3. How to Play
+----
+> Before you start the game, you have to install Bangtal Library first.
+> 
+> Installation site for the Bangtal Library : [[Link]](https://cafe.naver.com/bangtal/5)
+
+----
+
