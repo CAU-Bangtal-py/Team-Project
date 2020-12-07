@@ -7,6 +7,8 @@
 
 Game Introduction Video (Korean) : [[Youtube Link]](https://youtu.be/N5T_S-qkIUk)
 
+Referenced Site : Bangtal Library Cafe [[Link]](https://cafe.naver.com/bangtal?iframe_url=/MyCafeIntro.nhn%3Fclubid=29980462)
+
 ----
 ----
 
